@@ -14,7 +14,7 @@ __pycache__/
 
 
 # Ignore Jupyter Notebook metadata and output
-*.ipynb
+
 
 # Ignore hidden system files
 .DS_Store
